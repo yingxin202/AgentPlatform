@@ -1,0 +1,24 @@
+# .NET build output
+bin/
+obj/
+
+# IDE files
+.vs/
+.vscode/
+*.user
+*.suo
+
+# Database files
+*.db
+*.db-shm
+*.db-wal
+
+# Configuration with secrets
+config.json
+
+# Logs
+*.log
+
+# OS files
+Thumbs.db
+.DS_Store
